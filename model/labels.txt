@@ -1,0 +1,9 @@
+0 dew
+1 frogsmog
+2 frost
+3 glaze
+4 lightining
+5 rain
+6 rainbow
+7 sandstorm
+8 snow
